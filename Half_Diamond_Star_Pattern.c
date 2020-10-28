@@ -6,6 +6,7 @@ version 1.0
 */
 
 #include<stdio.h>
+#include<math.h> 
 
 int main() {
 
